@@ -16,7 +16,7 @@ export const thirdPartyCompanies = [
     name: "شركة ولاء للتأمين التعاوني",
     nameKey: "insurance.companies.walaa",
     logo: `${SVG}/Walaa.svg`,
-    price: 379.40,
+    price: 169.2,
     options: [
       opt("مساعدة على الطريق", "insurance.options.roadside", 50),
       opt("تغطية الحوادث الشخصية للسائق", "insurance.options.driverPersonal", 20),
@@ -30,7 +30,7 @@ export const thirdPartyCompanies = [
     name: "التعاونية",
     nameKey: "insurance.companies.altawneih",
     logo: `${SVG}/Tawuniya.svg`,
-    price: 602.3,
+    price: 379.40,
     options: [
       opt("تغطية الحوادث الشخصية للسائق فقط", "insurance.options.driverOnly", 60),
       opt(
